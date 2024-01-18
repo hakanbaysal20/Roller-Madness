@@ -1,2 +1,2 @@
 # Roller-Madness
-Developed in the Gamefactory tutorial
+Developed in the Gamefactory course
